@@ -4,8 +4,8 @@ Simple camel route in camel everything is a Route, A Route has a starting point 
 
 Route example:
 
-from("file:data/input?noop=true")
-.to("file:data/output");
+        from("file:data/input?noop=true")
+        .to("file:data/output");
 
 The URI:
     file:data/input?noop=true
