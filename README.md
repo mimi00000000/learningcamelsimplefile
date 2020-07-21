@@ -1,4 +1,4 @@
-Simple apache camel standalone example using java
+# Simple apache camel standalone example using java
 
 Simple camel route in camel everything is a Route, A Route has a starting point and an ending point.
 
